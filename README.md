@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/mr_orero" target="blank"><img src="https://img.shields.io/twitter/follow/mr_orero?logo=twitter&style=for-the-badge" alt="mr_orero" /></a> </p>
 
-- 🌱 I’m currently learning **Python(Flask and Django), Golang**
+- 🌱 I’m currently learning **Spring and Angular**
 
 - 👯 I’m looking to collaborate on **anything exciting**
 
