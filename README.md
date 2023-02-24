@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ozore Orero</h1>
-<h3 align="center">A passionate software engineer with experience in developing and testing production applications. My areas of strength include server-side rendering and developing scalable API’s with nodejs. I am knowledge hungry and eager to learn</h3>
+<h3 align="center">A passionate software engineer with experience in developing and testing production applications. My areas of strength include server-side rendering and developing scalable API’s and Microservices. I am knowledge hungry and eager to learn</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mrorero&label=Profile%20views&color=0e75b6&style=flat" alt="mrorero" /> </p>
 
