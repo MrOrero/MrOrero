@@ -11,7 +11,7 @@
 
 - 📝 You can always find me on [http://twitter.com/mr_orero](http://twitter.com/mr_orero)
 
-- 💬 Ask me about **Backend Development, APIs, rap music and animeeeee**
+- 💬 Ask me about **Software Architecture, Clean code and Music**
 
 - 📫 How to reach me **oreroozore@gmail.com**
 
