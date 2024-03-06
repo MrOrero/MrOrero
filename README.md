@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **oreroozore@gmail.com**
 
-- ⚡ Fun fact **I think MongoDB is the one above all**
+- ⚡ Fun fact **I think Java is cute**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
